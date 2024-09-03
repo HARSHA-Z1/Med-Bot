@@ -51,6 +51,5 @@ MedBot is a Python-based application designed to manage medicine inventory using
 2. The current stock, including all medicine details, will be displayed.
 
 
-The Med-Bot project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 
