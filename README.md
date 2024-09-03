@@ -53,7 +53,4 @@ MedBot is a Python-based application designed to manage medicine inventory using
 
 The Med-Bot project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-## Contact
-------------
 
-If you have any questions or need further assistance, please contact [your-email-address](mailto:your-email-address).
